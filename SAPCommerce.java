@@ -3,7 +3,7 @@ public class SAPCommerce{
         System.out.println("Adicionando item ao carrinho");
     }
     public void removeItemFromCart(){
-        System.out.println("Removendo item do carrinho")
+        System.out.println("Removendo item do carrinho");
     }
     
 }
