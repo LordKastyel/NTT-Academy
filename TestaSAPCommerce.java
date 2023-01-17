@@ -4,6 +4,7 @@ public class TestaSAPCommerce{
 
         sapcommerce.addToCart();
         sapcommerce.removeItemFromCart();
+        sapcommerce.updateItemFromCart();
     }
     
 }
